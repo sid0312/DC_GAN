@@ -1,6 +1,6 @@
 # DC_GAN
 
-# This repository consists of my implementation of Deep Convoluted Generative Adversial Network on the CIFAR 10 dataset. Done using PyTorch
+# This repository consists of my implementation of the Deep Convoluted Generative Adversial Network on the CIFAR 10 dataset. Done using PyTorch
 
 The datasets can be found at http://www.cs.toronto.edu/~kriz/cifar.html
 
