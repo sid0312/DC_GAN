@@ -6,7 +6,7 @@ The datasets can be found at http://www.cs.toronto.edu/~kriz/cifar.html
 
 A paper implementation can be found at https://arxiv.org/abs/1511.06434 by Alec Radford, Luke Metz, Soumith Chintala. 
 
-# A sample batch of images
+# A sample batch of images from the dataset
 ![](./results/real_images.png)
 
 # Initially Generated image batch by Generator
